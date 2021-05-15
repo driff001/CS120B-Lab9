@@ -1,7 +1,7 @@
 /*	Author: Dylan Riffel
  *  	Partner(s) Name: 
  *	Lab Section: 22
- *	Assignment: Lab 9  Exercise 1
+ *	Assignment: Lab 9  Exercise 2
  *	Exercise Description: [optional - include for your own benefit]
  *
  * 	Video Link: https://www.youtube.com/watch?v=rtSMWq7e_Zo
